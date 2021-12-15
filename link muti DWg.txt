@@ -1,0 +1,8 @@
+link Mutiple Dwg
+
+***get path dwg
+***get name dwg
+***get name view in Floor plane
+
+*** Compare name floor plane , name dwg
+
